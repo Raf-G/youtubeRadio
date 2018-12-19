@@ -1,0 +1,1 @@
+YOUTUBE_DEFAULT_URL = "https://youtube.com/results?" # Для быстрой работы (редактирования, замены) во всем приложении
